@@ -1,6 +1,6 @@
 **PROJECT IS IN EARLY DEVELOPMENT STAGE**
 
-#  Argo CI
+# Argo CI
 
 Argo CI is a continuous integration and deployment system powered by [Argo](http://argoproj.io) workflow engine for Kubernetes. Argo CI provides integration with SCM
 ( currently only Github is supported) and automatically triggers CI workflow defined using [Argo YAML DSL](https://applatix.com/open-source/argo/docs/argo_v2_yaml.html).
